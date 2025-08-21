@@ -1,4 +1,4 @@
-# Excel Data Analysis Project – IBM Excel Basics for Data Analysis
+# Excel-Data-Clean-Analyze-Project – IBM Excel Basics for Data Analysis
 Bu proje, IBM Data Analyst Professional Certificate kursunun *Excel Basics for Data Analysis* modül 5 kapsamında gerçekleştirilmiştir. Amaç, veri temizleme, düzenleme ve analiz pratiği yaparak Excel becerilerini geliştirmektir.
 ## Proje Özeti
 Projede temel olarak Excel veri analizi teknikleri kullanılmıştır:
